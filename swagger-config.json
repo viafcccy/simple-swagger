@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "url": "docs/example.proto.swagger.json",
+      "name": "样例接口文档"
+    }
+  ]
+}
